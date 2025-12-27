@@ -1,4 +1,4 @@
-# Customer Support Ticket Analysis
+# Customer Support Ticket Triage
 
 ## Project Description
 This project processes customer support tickets by cleaning text,
